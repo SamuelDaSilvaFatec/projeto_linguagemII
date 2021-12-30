@@ -1,4 +1,4 @@
-# Projeto para a disciplina de Liguagem de Programação II
+# Projeto para a disciplina de Linguagem de Programação II
 
 ## Especificações do Projeto
 
